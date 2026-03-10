@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+.env
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
